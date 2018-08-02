@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVPProject</string>
+    <string name="google_maps_key">AIzaSyCJOeFSE35bWtgy0FfTLZLBb59ouSM8tRI</string>
+    <string name="map_type_none">None</string>
+    <string name="map_type_normal">Normal</string>
+    <string name="map_type_terrain">Terrain</string>
+    <string name="map_type_satellite">Satellite</string>
+    <string name="map_type_hybrid">Hybrid</string>
+</resources>
